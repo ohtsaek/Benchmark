@@ -22,7 +22,7 @@ Clone the repository and set up the environment:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YourUsername/DRP-Benchmark.git](https://github.com/YourUsername/DRP-Benchmark.git)
+git clone [https://github.com/ohtsaek/DRP-Benchmark.git](https://github.com/ohtsaek/DRP-Benchmark.git)
 cd DRP-Benchmark
 
 # 2. Create a virtual environment

@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model checkpoints and cache
+local_txgemma_model/
+*.pt
+*.pth
+*.bin
+*.ckpt
+checkpoints/
+.cache/
+.triton_cache/
+
+# Data
+data/
+*.txt
+*.csv
+*.tsv
+*.jsonl
+!requirements.txt
+!README.txt
+
+# Results
+results/
+outputs/
+logs/
+*.log
+*.out
+*.err
+
+# Weights & Biases
+wandb/
+
+# HuggingFace
+.huggingface/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

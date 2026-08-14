@@ -1,0 +1,6 @@
+broad_id,name,smiles
+BRD-A25234499-001-19-1,aminoglutethimide,CCC1(c2ccc(N)cc2)CCC(=O)NC1=O
+BRD-A70858459-001-01-7,estramustine,C[C@]12CCC3C(CCc4cc(OC(=O)N(CCCl)CCCl)ccc34)C1CC[C@@H]2O
+BRD-A74914197-001-02-9,pralatrexate,Nc1nc(N)c2nc(CC(CC#C)c3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)cnc2n1
+BRD-K02113016-001-19-6,olaparib,O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(C(=O)C2CC2)CC1
+BRD-K02130563-001-11-4,panobinostat,Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1
